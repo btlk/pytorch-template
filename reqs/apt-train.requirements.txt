@@ -1,0 +1,14 @@
+# Essential packages.
+libjemalloc2
+libjpeg-turbo8
+libpng16-16
+openssh-server
+sudo
+tzdata
+zsh
+
+# Additional packages.
+tmux
+rsync
+nano
+git
